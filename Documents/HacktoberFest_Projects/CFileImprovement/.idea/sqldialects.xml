@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Hacktoberfest2025/SQL/Absent_Employees.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Hacktoberfest2025/SQL/Customer_orders_greater_than_Given_amount.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Hacktoberfest2025/SQL/Employees_Earning_above_avg_sal.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Hacktoberfest2025/SQL/most_popular_products_based_on_qualities.sql" dialect="GenericSQL" />
+  </component>
+</project>
